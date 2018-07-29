@@ -1,0 +1,88 @@
+[
+	{
+		"id": "1",
+		"name": "Hotel Lionel",
+		"city": "Bailey"
+		
+	},
+	{
+		"id": "2",
+		"name": "Hotel Bret",
+		"city": "Buno"
+
+	},
+	{
+		"id": "3",
+		"name": "Hotel Antonette",
+		"city": "Nevada"
+	
+	},
+	{
+		"id": "4",
+		"name": "Hotel Bauch",
+		"city": "Berlin"
+
+	},
+	{
+		"id": "5",
+		"name": "Hotel Karianne",
+		"city": "Boston"
+
+	},
+	{
+		"id": "6",
+		"name": "Hotel Dietrich",
+		"city": "Austin"
+	
+	},
+	{
+		"id": "7",
+		"name": "Hotel Lebsack",
+		"city": "Jordan"
+
+	},
+	{
+		"id": "8",
+		"name": "Hotel Leopoldo",
+		"city": "Briston"
+	
+	},
+	{
+		"id": "9",
+		"name": "Hotel Skiles",
+		"city": "Arlington"
+
+	},
+	{
+		"id": "10",
+		"name": "Hotel Stanton",
+		"city": "Buno"
+	
+	},
+		{
+		"id": "11",
+		"name": "Hotel Tierton",
+		"city": "Grener"
+	
+	},
+		{
+		"id": "12",
+		"name": "Hotel Starte",
+		"city": "Kenya"
+	
+	},
+		{
+		"id": "13",
+		"name": "Hotel Tonto",
+		"city": "Texas"
+	
+	},
+		{
+		"id": "14",
+		"name": "Hotel Skycrape",
+		"city": "Seattle"
+	
+	}
+
+
+]
